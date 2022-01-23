@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603276433801",
+    "project_id": "co-app-61040",
+    "storage_bucket": "co-app-61040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603276433801:android:36526658e575a4f7dfa958",
+        "android_client_info": {
+          "package_name": "inc.poison.co_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603276433801-j9irpi8o70tccpu71b7qfba3a70nqf1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACbREYroDR7NCMiD-86bPaplGnBa6estY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603276433801-j9irpi8o70tccpu71b7qfba3a70nqf1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
